@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Radar de Vagas Ceará</title>
+<meta name="description" content="Ambiente exclusivo com vagas de T.I. no Ceará, atualizado a cada hora.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='8' fill='%230b7a75'/><text x='16' y='21' font-size='14' text-anchor='middle' fill='white' font-family='sans-serif' font-weight='700'>TI</text></svg>">
+<link rel="stylesheet" href="assets/estilo.css">
+</head>
+<body class="ceara" data-escopo="CE">
+<header class="topo">
+  <div class="wrap">
+    <a class="marca" href="./"><span class="logo">TI</span> Radar de Vagas NE</a>
+    <nav class="abas" aria-label="Ambientes">
+      <a href="./">Nordeste</a>
+      <a href="ceara.html" aria-current="page">Ceará</a>
+    </nav>
+    <span class="espaco"></span>
+    <span class="atualizacao" id="atualizacao"><span class="pulso parado"></span><span>carregando…</span></span>
+    <button class="btn-icone" id="tema" type="button" title="Alternar tema claro/escuro" aria-label="Alternar tema"><svg width="16" height="16" viewBox="0 0 16 16" aria-hidden="true"><circle cx="8" cy="8" r="6.5" fill="none" stroke="currentColor" stroke-width="1.5"/><path d="M8 1.5a6.5 6.5 0 0 1 0 13z" fill="currentColor"/></svg></button>
+  </div>
+</header>
+
+<main class="wrap">
+  <section class="hero">
+    <h1>Vagas de T.I. no Ceará <span class="tag">Ambiente CE</span></h1>
+    <p>Somente vagas de Tecnologia da Informação no estado do Ceará: Fortaleza, região metropolitana, Cariri, Sobral e interior.</p>
+  </section>
+
+  <section class="kpis" id="kpis" aria-label="Indicadores"></section>
+
+  <section class="grade">
+    <div class="painel c4"><h2>Vagas por cidade <small>clique para filtrar</small></h2><div class="barras" id="g-cidade"></div></div>
+    <div class="painel c4"><h2>Áreas de T.I.</h2><div class="barras" id="g-categoria"></div></div>
+    <div class="painel c4"><h2>Modalidade</h2><div class="barras" id="g-modalidade"></div><h2 style="margin-top:16px">Nível</h2><div class="barras" id="g-nivel"></div></div>
+    <div class="painel c8 tendencia"><h2>Evolução das vagas no Ceará <small id="tendencia-sub">últimos 30 dias</small></h2><div id="g-tendencia"></div></div>
+    <div class="painel c4"><h2>Empresas contratando no Ceará</h2><div class="barras" id="g-empresa"></div></div>
+  </section>
+
+  <section aria-label="Filtros">
+    <div class="filtros">
+      <input class="busca" id="f-busca" type="search" placeholder="Buscar cargo, empresa, tecnologia…" aria-label="Buscar">
+      <select id="f-local" aria-label="Cidade"></select>
+      <select id="f-categoria" aria-label="Área"></select>
+      <select id="f-nivel" aria-label="Nível"></select>
+      <select id="f-modalidade" aria-label="Modalidade"></select>
+      <select id="f-fonte" aria-label="Fonte"></select>
+    </div>
+    <div class="barra-lista">
+      <div class="chips">
+        <button class="chip" type="button" id="f-novas" aria-pressed="false">Novas (24h)</button>
+        <button class="chip" type="button" id="f-favoritas" aria-pressed="false">★ Salvas</button>
+        <button class="chip" type="button" id="f-remoto" aria-pressed="false">Remoto/Híbrido</button>
+      </div>
+      <div><span id="contagem"></span> · <button class="limpar" type="button" id="limpar">limpar filtros</button></div>
+    </div>
+  </section>
+
+  <section class="vagas" id="vagas" aria-live="polite"></section>
+  <button class="mais" id="mais" type="button" hidden>Mostrar mais vagas</button>
+
+  <section class="painel c12" style="margin-bottom:24px">
+    <h2>Fontes consultadas <small id="fontes-resumo"></small></h2>
+    <div class="fontes" id="fontes"></div>
+    <div id="portais"></div>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap">
+    Coleta automática a cada 1 hora (GitHub Actions) em Gupy, Vagas.com, Sólides e portais de carreira de empresas do Nordeste.
+    As vagas pertencem aos respectivos anunciantes — confirme os detalhes no link original antes de se candidatar.
+  </div>
+</footer>
+<script src="assets/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Radar de Vagas NE</title>
+<meta name="description" content="Vagas de T.I. no Nordeste atualizadas a cada hora a partir da Gupy, Vagas.com, Sólides e portais de empresas.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='8' fill='%230b7a75'/><text x='16' y='21' font-size='14' text-anchor='middle' fill='white' font-family='sans-serif' font-weight='700'>TI</text></svg>">
+<link rel="stylesheet" href="assets/estilo.css">
+</head>
+<body class="nordeste" data-escopo="NE">
+<header class="topo">
+  <div class="wrap">
+    <a class="marca" href="./"><span class="logo">TI</span> Radar de Vagas NE</a>
+    <nav class="abas" aria-label="Ambientes">
+      <a href="./" aria-current="page">Nordeste</a>
+      <a href="ceara.html">Ceará</a>
+    </nav>
+    <span class="espaco"></span>
+    <span class="atualizacao" id="atualizacao"><span class="pulso parado"></span><span>carregando…</span></span>
+    <button class="btn-icone" id="tema" type="button" title="Alternar tema claro/escuro" aria-label="Alternar tema"><svg width="16" height="16" viewBox="0 0 16 16" aria-hidden="true"><circle cx="8" cy="8" r="6.5" fill="none" stroke="currentColor" stroke-width="1.5"/><path d="M8 1.5a6.5 6.5 0 0 1 0 13z" fill="currentColor"/></svg></button>
+  </div>
+</header>
+
+<main class="wrap">
+  <section class="hero">
+    <h1>Vagas de T.I. no Nordeste</h1>
+    <p>Os 9 estados da região, atualizados a cada hora a partir de portais de emprego e páginas de carreira de empresas.</p>
+  </section>
+
+  <section class="kpis" id="kpis" aria-label="Indicadores"></section>
+
+  <section class="grade">
+    <div class="painel c4"><h2>Vagas por estado <small>clique para filtrar</small></h2><div class="mapa" id="mapa"></div><div class="legenda-mapa" id="legenda-mapa"></div></div>
+    <div class="painel c4"><h2>Áreas de T.I.</h2><div class="barras" id="g-categoria"></div></div>
+    <div class="painel c4"><h2>Nível</h2><div class="barras" id="g-nivel"></div></div>
+    <div class="painel c8 tendencia"><h2>Evolução das vagas ativas <small id="tendencia-sub">últimos 30 dias</small></h2><div id="g-tendencia"></div></div>
+    <div class="painel c4"><h2>Empresas com mais vagas</h2><div class="barras" id="g-empresa"></div></div>
+  </section>
+
+  <section aria-label="Filtros">
+    <div class="filtros">
+      <input class="busca" id="f-busca" type="search" placeholder="Buscar cargo, empresa, tecnologia…" aria-label="Buscar">
+      <select id="f-local" aria-label="Estado"></select>
+      <select id="f-categoria" aria-label="Área"></select>
+      <select id="f-nivel" aria-label="Nível"></select>
+      <select id="f-modalidade" aria-label="Modalidade"></select>
+      <select id="f-fonte" aria-label="Fonte"></select>
+    </div>
+    <div class="barra-lista">
+      <div class="chips">
+        <button class="chip" type="button" id="f-novas" aria-pressed="false">Novas (24h)</button>
+        <button class="chip" type="button" id="f-favoritas" aria-pressed="false">★ Salvas</button>
+        <button class="chip" type="button" id="f-remoto" aria-pressed="false">Remoto/Híbrido</button>
+      </div>
+      <div><span id="contagem"></span> · <button class="limpar" type="button" id="limpar">limpar filtros</button></div>
+    </div>
+  </section>
+
+  <section class="vagas" id="vagas" aria-live="polite"></section>
+  <button class="mais" id="mais" type="button" hidden>Mostrar mais vagas</button>
+
+  <section class="painel c12" style="margin-bottom:24px">
+    <h2>Fontes consultadas <small id="fontes-resumo"></small></h2>
+    <div class="fontes" id="fontes"></div>
+    <div id="portais"></div>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap">
+    Coleta automática a cada 1 hora (GitHub Actions) em Gupy, Vagas.com, Sólides e portais de carreira de empresas do Nordeste.
+    As vagas pertencem aos respectivos anunciantes — confirme os detalhes no link original antes de se candidatar.
+  </div>
+</footer>
+<script src="assets/app.js"></script>
+</body>
+</html>

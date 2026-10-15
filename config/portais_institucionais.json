@@ -1,0 +1,13 @@
+{
+  "_leia-me": "Portais de carreira de empresas do Nordeste. tipo: greenhouse | lever | pagina. 'uf' é o estado-sede; com \"assumir_uf\": true ele é usado nas vagas sem local informado (só para empresas que contratam apenas naquele estado). Use \"ativo\": false para desligar um portal. O painel mostra o status (ok/erro) de cada portal após cada coleta.",
+  "portais": [
+    {"empresa": "Hapvida NotreDame Intermédica", "tipo": "pagina", "url": "https://hapvida.gupy.io/", "uf": "CE"},
+    {"empresa": "Pague Menos", "tipo": "pagina", "url": "https://paguemenos.gupy.io/", "uf": "CE"},
+    {"empresa": "M. Dias Branco", "tipo": "pagina", "url": "https://mdiasbranco.gupy.io/", "uf": "CE"},
+    {"empresa": "Grendene", "tipo": "pagina", "url": "https://grendene.gupy.io/", "uf": "CE"},
+    {"empresa": "Instituto Atlântico", "tipo": "pagina", "url": "https://atlantico.gupy.io/", "uf": "CE", "assumir_uf": true},
+    {"empresa": "Unimed Fortaleza", "tipo": "pagina", "url": "https://unimedfortaleza.gupy.io/", "uf": "CE", "assumir_uf": true},
+    {"empresa": "CESAR", "tipo": "pagina", "url": "https://cesar.gupy.io/", "uf": "PE"},
+    {"empresa": "Neoenergia", "tipo": "pagina", "url": "https://neoenergia.gupy.io/", "uf": "BA"}
+  ]
+}
