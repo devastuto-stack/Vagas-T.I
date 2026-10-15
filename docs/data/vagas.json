@@ -1,6 +1,128 @@
 {
- "atualizado_em": null,
- "fontes": [],
- "total": 0,
- "vagas": []
+ "atualizado_em": "2026-10-15T23:29:25+00:00",
+ "proxima_coleta": "2026-10-16T00:29:25+00:00",
+ "duracao_segundos": 107.7,
+ "requisicoes": 168,
+ "fontes": [
+  {
+   "fonte": "Gupy",
+   "ok": false,
+   "erro": "AL/desenvolvedor: 404 Client Error: Not Found for url: https://portal.api.gupy.io/api/v1/jobs?jobName=desenvolvedor&state=Alagoas&limit=100&offset=0",
+   "segundos": 2.5
+  },
+  {
+   "fonte": "Vagas.com",
+   "ok": true,
+   "coletadas": 120,
+   "ti_nordeste": 3,
+   "segundos": 50.2
+  },
+  {
+   "fonte": "Sólides",
+   "ok": true,
+   "coletadas": 0,
+   "ti_nordeste": 0,
+   "segundos": 50.5
+  },
+  {
+   "fonte": "Portais institucionais",
+   "ok": true,
+   "coletadas": 0,
+   "ti_nordeste": 0,
+   "portais": [
+    {
+     "empresa": "Hapvida NotreDame Intermédica",
+     "ok": false,
+     "erro": "404 Client Error: Not Found for url: https://hapvida.gupy.io/"
+    },
+    {
+     "empresa": "Pague Menos",
+     "ok": false,
+     "erro": "404 Client Error: Not Found for url: https://paguemenos.gupy.io/"
+    },
+    {
+     "empresa": "M. Dias Branco",
+     "ok": true,
+     "total": 0
+    },
+    {
+     "empresa": "Grendene",
+     "ok": false,
+     "erro": "404 Client Error: Not Found for url: https://grendene.gupy.io/"
+    },
+    {
+     "empresa": "Instituto Atlântico",
+     "ok": false,
+     "erro": "404 Client Error: Not Found for url: https://atlantico.gupy.io/"
+    },
+    {
+     "empresa": "Unimed Fortaleza",
+     "ok": true,
+     "total": 0
+    },
+    {
+     "empresa": "CESAR",
+     "ok": true,
+     "total": 0
+    },
+    {
+     "empresa": "Neoenergia",
+     "ok": false,
+     "erro": "404 Client Error: Not Found for url: https://neoenergia.gupy.io/"
+    }
+   ],
+   "segundos": 4.6
+  }
+ ],
+ "total": 3,
+ "vagas": [
+  {
+   "titulo": "Técnico em Informática I",
+   "empresa": "UNIJORGE",
+   "url": "https://www.vagas.com.br/vagas/v2838455/tecnico-em-informatica-i",
+   "fonte": "Vagas.com",
+   "cidade": "Salvador",
+   "uf": "BA",
+   "modalidade": "Não informado",
+   "publicada_em": "2026-10-07",
+   "categoria": "Suporte & Service Desk",
+   "nivel": "Júnior",
+   "id": "vagascom-2838455",
+   "primeira_vez": "2026-10-15T23:29:25+00:00",
+   "ultima_vez": "2026-10-15T23:29:25+00:00",
+   "ativa": true
+  },
+  {
+   "titulo": "Técnico de Suporte Jr. L - Peak Season",
+   "empresa": "Randstad Brasil",
+   "url": "https://www.vagas.com.br/vagas/v2835921/tecnico-de-suporte-jr-l-peak-season",
+   "fonte": "Vagas.com",
+   "cidade": "Cabo de Santo Agostinho",
+   "uf": "PE",
+   "modalidade": "Não informado",
+   "publicada_em": "2026-09-21",
+   "categoria": "Suporte & Service Desk",
+   "nivel": "Júnior",
+   "id": "vagascom-2835921",
+   "primeira_vez": "2026-10-15T23:29:25+00:00",
+   "ultima_vez": "2026-10-15T23:29:25+00:00",
+   "ativa": true
+  },
+  {
+   "titulo": "Analista de Suporte I",
+   "empresa": "Grupo Fleury",
+   "url": "https://www.vagas.com.br/vagas/v2835711/analista-de-suporte-i",
+   "fonte": "Vagas.com",
+   "cidade": "Natal",
+   "uf": "RN",
+   "modalidade": "Não informado",
+   "publicada_em": "2026-09-18",
+   "categoria": "Suporte & Service Desk",
+   "nivel": "Júnior",
+   "id": "vagascom-2835711",
+   "primeira_vez": "2026-10-15T23:29:25+00:00",
+   "ultima_vez": "2026-10-15T23:29:25+00:00",
+   "ativa": true
+  }
+ ]
 }
