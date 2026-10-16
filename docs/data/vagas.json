@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-10-16T13:39:19+00:00",
- "proxima_coleta": "2026-10-16T14:39:19+00:00",
- "duracao_segundos": 155.9,
- "requisicoes": 169,
+ "atualizado_em": "2026-10-16T14:33:20+00:00",
+ "proxima_coleta": "2026-10-16T15:33:20+00:00",
+ "duracao_segundos": 100.4,
+ "requisicoes": 168,
  "fontes": [
   {
    "fonte": "Gupy",
@@ -13,16 +13,16 @@
   {
    "fonte": "Vagas.com",
    "ok": true,
-   "coletadas": 125,
+   "coletadas": 92,
    "ti_nordeste": 3,
-   "segundos": 54.1
+   "segundos": 49.4
   },
   {
    "fonte": "Sólides",
    "ok": true,
    "coletadas": 0,
    "ti_nordeste": 0,
-   "segundos": 95.0
+   "segundos": 44.1
   },
   {
    "fonte": "Portais institucionais",
@@ -89,7 +89,7 @@
    "nivel": "Júnior",
    "id": "vagascom-2838455",
    "primeira_vez": "2026-10-15T23:29:25+00:00",
-   "ultima_vez": "2026-10-16T13:39:19+00:00",
+   "ultima_vez": "2026-10-16T14:33:20+00:00",
    "ativa": true
   },
   {
@@ -105,7 +105,7 @@
    "nivel": "Júnior",
    "id": "vagascom-2835921",
    "primeira_vez": "2026-10-15T23:29:25+00:00",
-   "ultima_vez": "2026-10-16T13:39:19+00:00",
+   "ultima_vez": "2026-10-16T14:33:20+00:00",
    "ativa": true
   },
   {
@@ -137,7 +137,7 @@
    "nivel": "Júnior",
    "id": "vagascom-2835711",
    "primeira_vez": "2026-10-15T23:29:25+00:00",
-   "ultima_vez": "2026-10-16T13:39:19+00:00",
+   "ultima_vez": "2026-10-16T14:33:20+00:00",
    "ativa": true
   }
  ]
