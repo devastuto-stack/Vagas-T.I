@@ -1,7 +1,7 @@
 {
- "atualizado_em": "2026-10-16T15:29:43+00:00",
- "proxima_coleta": "2026-10-16T16:29:43+00:00",
- "duracao_segundos": 112.6,
+ "atualizado_em": "2026-10-16T16:29:59+00:00",
+ "proxima_coleta": "2026-10-16T17:29:59+00:00",
+ "duracao_segundos": 101.0,
  "requisicoes": 168,
  "fontes": [
   {
@@ -13,16 +13,16 @@
   {
    "fonte": "Vagas.com",
    "ok": true,
-   "coletadas": 101,
-   "ti_nordeste": 3,
-   "segundos": 50.0
+   "coletadas": 95,
+   "ti_nordeste": 4,
+   "segundos": 49.6
   },
   {
    "fonte": "Sólides",
    "ok": true,
    "coletadas": 0,
    "ti_nordeste": 0,
-   "segundos": 50.1
+   "segundos": 44.1
   },
   {
    "fonte": "Portais institucionais",
@@ -71,10 +71,10 @@
      "erro": "404 Client Error: Not Found for url: https://neoenergia.gupy.io/"
     }
    ],
-   "segundos": 10.0
+   "segundos": 4.8
   }
  ],
- "total": 4,
+ "total": 5,
  "vagas": [
   {
    "titulo": "Técnico em Informática I",
@@ -89,7 +89,23 @@
    "nivel": "Júnior",
    "id": "vagascom-2838455",
    "primeira_vez": "2026-10-15T23:29:25+00:00",
-   "ultima_vez": "2026-10-16T15:29:43+00:00",
+   "ultima_vez": "2026-10-16T16:29:59+00:00",
+   "ativa": true
+  },
+  {
+   "titulo": "Programador de Manutenção",
+   "empresa": "Somar Diversidade",
+   "url": "https://www.vagas.com.br/vagas/v2836722/programador-de-manutencao",
+   "fonte": "Vagas.com",
+   "cidade": "Horizonte",
+   "uf": "CE",
+   "modalidade": "Não informado",
+   "publicada_em": "2026-09-25",
+   "categoria": "Desenvolvimento",
+   "nivel": "Não informado",
+   "id": "vagascom-2836722",
+   "primeira_vez": "2026-10-16T16:29:59+00:00",
+   "ultima_vez": "2026-10-16T16:29:59+00:00",
    "ativa": true
   },
   {
@@ -105,7 +121,7 @@
    "nivel": "Júnior",
    "id": "vagascom-2835921",
    "primeira_vez": "2026-10-15T23:29:25+00:00",
-   "ultima_vez": "2026-10-16T15:29:43+00:00",
+   "ultima_vez": "2026-10-16T16:29:59+00:00",
    "ativa": true
   },
   {
@@ -137,7 +153,7 @@
    "nivel": "Júnior",
    "id": "vagascom-2835711",
    "primeira_vez": "2026-10-15T23:29:25+00:00",
-   "ultima_vez": "2026-10-16T15:29:43+00:00",
+   "ultima_vez": "2026-10-16T16:29:59+00:00",
    "ativa": true
   }
  ]
