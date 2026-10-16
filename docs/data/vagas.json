@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-10-16T20:26:58+00:00",
- "proxima_coleta": "2026-10-16T21:26:58+00:00",
- "duracao_segundos": 102.0,
- "requisicoes": 169,
+ "atualizado_em": "2026-10-16T21:26:47+00:00",
+ "proxima_coleta": "2026-10-16T22:26:47+00:00",
+ "duracao_segundos": 100.3,
+ "requisicoes": 168,
  "fontes": [
   {
    "fonte": "Gupy",
@@ -13,16 +13,16 @@
   {
    "fonte": "Vagas.com",
    "ok": true,
-   "coletadas": 111,
-   "ti_nordeste": 3,
-   "segundos": 50.4
+   "coletadas": 104,
+   "ti_nordeste": 6,
+   "segundos": 49.5
   },
   {
    "fonte": "Sólides",
    "ok": true,
    "coletadas": 0,
    "ti_nordeste": 0,
-   "segundos": 44.5
+   "segundos": 43.9
   },
   {
    "fonte": "Portais institucionais",
@@ -71,11 +71,59 @@
      "erro": "404 Client Error: Not Found for url: https://neoenergia.gupy.io/"
     }
    ],
-   "segundos": 4.7
+   "segundos": 4.5
   }
  ],
- "total": 5,
+ "total": 8,
  "vagas": [
+  {
+   "titulo": "Especialista SAP Mm (Suprimentos e Logística)",
+   "empresa": "Komatsu",
+   "url": "https://www.vagas.com.br/vagas/v2839651/especialista-sap-mm-suprimentos-e-logistica",
+   "fonte": "Vagas.com",
+   "cidade": "Horizonte",
+   "uf": "CE",
+   "modalidade": "Não informado",
+   "publicada_em": "2026-10-16",
+   "categoria": "ERP & Sistemas Corporativos",
+   "nivel": "Especialista",
+   "id": "vagascom-2839651",
+   "primeira_vez": "2026-10-16T21:26:47+00:00",
+   "ultima_vez": "2026-10-16T21:26:47+00:00",
+   "ativa": true
+  },
+  {
+   "titulo": "Especialista de TI – Integrações de Sistemas",
+   "empresa": "Komatsu",
+   "url": "https://www.vagas.com.br/vagas/v2839649/especialista-de-ti-integracoes-de-sistemas",
+   "fonte": "Vagas.com",
+   "cidade": "Horizonte",
+   "uf": "CE",
+   "modalidade": "Não informado",
+   "publicada_em": "2026-10-16",
+   "categoria": "Outros T.I.",
+   "nivel": "Especialista",
+   "id": "vagascom-2839649",
+   "primeira_vez": "2026-10-16T21:26:47+00:00",
+   "ultima_vez": "2026-10-16T21:26:47+00:00",
+   "ativa": true
+  },
+  {
+   "titulo": "Especialista SAP Sd (Vendas e Distribuição)",
+   "empresa": "Komatsu",
+   "url": "https://www.vagas.com.br/vagas/v2839652/especialista-sap-sd-vendas-e-distribuicao",
+   "fonte": "Vagas.com",
+   "cidade": "Horizonte",
+   "uf": "CE",
+   "modalidade": "Não informado",
+   "publicada_em": "2026-10-16",
+   "categoria": "ERP & Sistemas Corporativos",
+   "nivel": "Especialista",
+   "id": "vagascom-2839652",
+   "primeira_vez": "2026-10-16T21:26:47+00:00",
+   "ultima_vez": "2026-10-16T21:26:47+00:00",
+   "ativa": true
+  },
   {
    "titulo": "Técnico em Informática I",
    "empresa": "UNIJORGE",
@@ -89,7 +137,7 @@
    "nivel": "Júnior",
    "id": "vagascom-2838455",
    "primeira_vez": "2026-10-15T23:29:25+00:00",
-   "ultima_vez": "2026-10-16T20:26:58+00:00",
+   "ultima_vez": "2026-10-16T21:26:47+00:00",
    "ativa": true
   },
   {
@@ -121,7 +169,7 @@
    "nivel": "Júnior",
    "id": "vagascom-2835921",
    "primeira_vez": "2026-10-15T23:29:25+00:00",
-   "ultima_vez": "2026-10-16T20:26:58+00:00",
+   "ultima_vez": "2026-10-16T21:26:47+00:00",
    "ativa": true
   },
   {
@@ -153,7 +201,7 @@
    "nivel": "Júnior",
    "id": "vagascom-2835711",
    "primeira_vez": "2026-10-15T23:29:25+00:00",
-   "ultima_vez": "2026-10-16T20:26:58+00:00",
+   "ultima_vez": "2026-10-16T21:26:47+00:00",
    "ativa": true
   }
  ]
