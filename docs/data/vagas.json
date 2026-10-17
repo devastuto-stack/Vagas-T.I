@@ -1,28 +1,28 @@
 {
- "atualizado_em": "2026-10-16T23:24:19+00:00",
- "proxima_coleta": "2026-10-17T00:24:19+00:00",
- "duracao_segundos": 107.8,
- "requisicoes": 169,
+ "atualizado_em": "2026-10-17T00:37:59+00:00",
+ "proxima_coleta": "2026-10-17T01:37:59+00:00",
+ "duracao_segundos": 110.6,
+ "requisicoes": 171,
  "fontes": [
   {
    "fonte": "Gupy",
    "ok": false,
    "erro": "AL/desenvolvedor: 404 Client Error: Not Found for url: https://portal.api.gupy.io/api/v1/jobs?jobName=desenvolvedor&state=Alagoas&limit=100&offset=0",
-   "segundos": 2.5
+   "segundos": 2.4
   },
   {
    "fonte": "Vagas.com",
    "ok": true,
-   "coletadas": 90,
-   "ti_nordeste": 3,
-   "segundos": 51.5
+   "coletadas": 210,
+   "ti_nordeste": 4,
+   "segundos": 51.8
   },
   {
    "fonte": "Sólides",
    "ok": true,
    "coletadas": 0,
    "ti_nordeste": 0,
-   "segundos": 49.4
+   "segundos": 52.0
   },
   {
    "fonte": "Portais institucionais",
@@ -71,10 +71,10 @@
      "erro": "404 Client Error: Not Found for url: https://neoenergia.gupy.io/"
     }
    ],
-   "segundos": 4.5
+   "segundos": 4.4
   }
  ],
- "total": 8,
+ "total": 9,
  "vagas": [
   {
    "titulo": "Especialista SAP Mm (Suprimentos e Logística)",
@@ -137,7 +137,23 @@
    "nivel": "Júnior",
    "id": "vagascom-2838455",
    "primeira_vez": "2026-10-15T23:29:25+00:00",
-   "ultima_vez": "2026-10-16T23:24:19+00:00",
+   "ultima_vez": "2026-10-17T00:37:59+00:00",
+   "ativa": true
+  },
+  {
+   "titulo": "Analista de Suporte I",
+   "empresa": "Grupo Fleury",
+   "url": "https://www.vagas.com.br/vagas/v2838329/analista-de-suporte-i",
+   "fonte": "Vagas.com",
+   "cidade": "Fortaleza",
+   "uf": "CE",
+   "modalidade": "Não informado",
+   "publicada_em": "2026-10-06",
+   "categoria": "Suporte & Service Desk",
+   "nivel": "Júnior",
+   "id": "vagascom-2838329",
+   "primeira_vez": "2026-10-17T00:37:59+00:00",
+   "ultima_vez": "2026-10-17T00:37:59+00:00",
    "ativa": true
   },
   {
@@ -169,7 +185,7 @@
    "nivel": "Júnior",
    "id": "vagascom-2835921",
    "primeira_vez": "2026-10-15T23:29:25+00:00",
-   "ultima_vez": "2026-10-16T23:24:19+00:00",
+   "ultima_vez": "2026-10-17T00:37:59+00:00",
    "ativa": true
   },
   {
@@ -201,7 +217,7 @@
    "nivel": "Júnior",
    "id": "vagascom-2835711",
    "primeira_vez": "2026-10-15T23:29:25+00:00",
-   "ultima_vez": "2026-10-16T23:24:19+00:00",
+   "ultima_vez": "2026-10-17T00:37:59+00:00",
    "ativa": true
   }
  ]
