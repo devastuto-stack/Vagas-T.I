@@ -1,7 +1,7 @@
 {
- "atualizado_em": "2026-10-17T09:25:42+00:00",
- "proxima_coleta": "2026-10-17T10:25:42+00:00",
- "duracao_segundos": 102.4,
+ "atualizado_em": "2026-10-17T10:25:06+00:00",
+ "proxima_coleta": "2026-10-17T11:25:06+00:00",
+ "duracao_segundos": 100.5,
  "requisicoes": 168,
  "fontes": [
   {
@@ -13,7 +13,7 @@
   {
    "fonte": "Vagas.com",
    "ok": true,
-   "coletadas": 97,
+   "coletadas": 94,
    "ti_nordeste": 3,
    "segundos": 49.4
   },
@@ -22,7 +22,7 @@
    "ok": true,
    "coletadas": 0,
    "ti_nordeste": 0,
-   "segundos": 46.0
+   "segundos": 44.0
   },
   {
    "fonte": "Portais institucionais",
@@ -71,7 +71,7 @@
      "erro": "404 Client Error: Not Found for url: https://neoenergia.gupy.io/"
     }
    ],
-   "segundos": 4.6
+   "segundos": 4.7
   }
  ],
  "total": 9,
@@ -137,7 +137,7 @@
    "nivel": "Júnior",
    "id": "vagascom-2838455",
    "primeira_vez": "2026-10-15T23:29:25+00:00",
-   "ultima_vez": "2026-10-17T09:25:42+00:00",
+   "ultima_vez": "2026-10-17T10:25:06+00:00",
    "ativa": true
   },
   {
@@ -185,7 +185,7 @@
    "nivel": "Júnior",
    "id": "vagascom-2835921",
    "primeira_vez": "2026-10-15T23:29:25+00:00",
-   "ultima_vez": "2026-10-17T09:25:42+00:00",
+   "ultima_vez": "2026-10-17T10:25:06+00:00",
    "ativa": true
   },
   {
@@ -217,7 +217,7 @@
    "nivel": "Júnior",
    "id": "vagascom-2835711",
    "primeira_vez": "2026-10-15T23:29:25+00:00",
-   "ultima_vez": "2026-10-17T09:25:42+00:00",
+   "ultima_vez": "2026-10-17T10:25:06+00:00",
    "ativa": true
   }
  ]
