@@ -1,20 +1,20 @@
 {
- "atualizado_em": "2026-10-17T16:25:31+00:00",
- "proxima_coleta": "2026-10-17T17:25:31+00:00",
- "duracao_segundos": 102.2,
+ "atualizado_em": "2026-10-17T17:23:17+00:00",
+ "proxima_coleta": "2026-10-17T18:23:17+00:00",
+ "duracao_segundos": 102.0,
  "requisicoes": 169,
  "fontes": [
   {
    "fonte": "Gupy",
    "ok": false,
    "erro": "AL/desenvolvedor: 404 Client Error: Not Found for url: https://portal.api.gupy.io/api/v1/jobs?jobName=desenvolvedor&state=Alagoas&limit=100&offset=0",
-   "segundos": 2.5
+   "segundos": 2.4
   },
   {
    "fonte": "Vagas.com",
    "ok": true,
-   "coletadas": 133,
-   "ti_nordeste": 4,
+   "coletadas": 126,
+   "ti_nordeste": 3,
    "segundos": 50.8
   },
   {
@@ -22,7 +22,7 @@
    "ok": true,
    "coletadas": 0,
    "ti_nordeste": 0,
-   "segundos": 43.8
+   "segundos": 43.7
   },
   {
    "fonte": "Portais institucionais",
@@ -137,7 +137,7 @@
    "nivel": "Júnior",
    "id": "vagascom-2838455",
    "primeira_vez": "2026-10-15T23:29:25+00:00",
-   "ultima_vez": "2026-10-17T16:25:31+00:00",
+   "ultima_vez": "2026-10-17T17:23:17+00:00",
    "ativa": true
   },
   {
@@ -170,7 +170,7 @@
    "id": "vagascom-2836722",
    "primeira_vez": "2026-10-16T16:29:59+00:00",
    "ultima_vez": "2026-10-17T16:25:31+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "titulo": "Técnico de Suporte Jr. L - Peak Season",
@@ -185,7 +185,7 @@
    "nivel": "Júnior",
    "id": "vagascom-2835921",
    "primeira_vez": "2026-10-15T23:29:25+00:00",
-   "ultima_vez": "2026-10-17T16:25:31+00:00",
+   "ultima_vez": "2026-10-17T17:23:17+00:00",
    "ativa": true
   },
   {
@@ -217,7 +217,7 @@
    "nivel": "Júnior",
    "id": "vagascom-2835711",
    "primeira_vez": "2026-10-15T23:29:25+00:00",
-   "ultima_vez": "2026-10-17T16:25:31+00:00",
+   "ultima_vez": "2026-10-17T17:23:17+00:00",
    "ativa": true
   }
  ]
