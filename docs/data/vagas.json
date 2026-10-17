@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-10-17T02:27:48+00:00",
- "proxima_coleta": "2026-10-17T03:27:48+00:00",
- "duracao_segundos": 104.4,
- "requisicoes": 171,
+ "atualizado_em": "2026-10-17T03:26:41+00:00",
+ "proxima_coleta": "2026-10-17T04:26:41+00:00",
+ "duracao_segundos": 101.3,
+ "requisicoes": 169,
  "fontes": [
   {
    "fonte": "Gupy",
@@ -13,16 +13,16 @@
   {
    "fonte": "Vagas.com",
    "ok": true,
-   "coletadas": 184,
-   "ti_nordeste": 4,
-   "segundos": 53.2
+   "coletadas": 122,
+   "ti_nordeste": 3,
+   "segundos": 50.3
   },
   {
    "fonte": "Sólides",
    "ok": true,
    "coletadas": 0,
    "ti_nordeste": 0,
-   "segundos": 44.3
+   "segundos": 44.1
   },
   {
    "fonte": "Portais institucionais",
@@ -137,7 +137,7 @@
    "nivel": "Júnior",
    "id": "vagascom-2838455",
    "primeira_vez": "2026-10-15T23:29:25+00:00",
-   "ultima_vez": "2026-10-17T02:27:48+00:00",
+   "ultima_vez": "2026-10-17T03:26:41+00:00",
    "ativa": true
   },
   {
@@ -185,7 +185,7 @@
    "nivel": "Júnior",
    "id": "vagascom-2835921",
    "primeira_vez": "2026-10-15T23:29:25+00:00",
-   "ultima_vez": "2026-10-17T02:27:48+00:00",
+   "ultima_vez": "2026-10-17T03:26:41+00:00",
    "ativa": true
   },
   {
@@ -202,7 +202,7 @@
    "id": "vagascom-2835800",
    "primeira_vez": "2026-10-16T12:37:14+00:00",
    "ultima_vez": "2026-10-17T02:27:48+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "titulo": "Analista de Suporte I",
@@ -217,7 +217,7 @@
    "nivel": "Júnior",
    "id": "vagascom-2835711",
    "primeira_vez": "2026-10-15T23:29:25+00:00",
-   "ultima_vez": "2026-10-17T02:27:48+00:00",
+   "ultima_vez": "2026-10-17T03:26:41+00:00",
    "ativa": true
   }
  ]
