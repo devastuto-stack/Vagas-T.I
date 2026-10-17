@@ -1,28 +1,28 @@
 {
- "atualizado_em": "2026-10-17T01:30:15+00:00",
- "proxima_coleta": "2026-10-17T02:30:15+00:00",
- "duracao_segundos": 109.6,
- "requisicoes": 168,
+ "atualizado_em": "2026-10-17T02:27:48+00:00",
+ "proxima_coleta": "2026-10-17T03:27:48+00:00",
+ "duracao_segundos": 104.4,
+ "requisicoes": 171,
  "fontes": [
   {
    "fonte": "Gupy",
    "ok": false,
    "erro": "AL/desenvolvedor: 404 Client Error: Not Found for url: https://portal.api.gupy.io/api/v1/jobs?jobName=desenvolvedor&state=Alagoas&limit=100&offset=0",
-   "segundos": 2.5
+   "segundos": 2.4
   },
   {
    "fonte": "Vagas.com",
    "ok": true,
-   "coletadas": 89,
-   "ti_nordeste": 3,
-   "segundos": 49.5
+   "coletadas": 184,
+   "ti_nordeste": 4,
+   "segundos": 53.2
   },
   {
    "fonte": "Sólides",
    "ok": true,
    "coletadas": 0,
    "ti_nordeste": 0,
-   "segundos": 53.0
+   "segundos": 44.3
   },
   {
    "fonte": "Portais institucionais",
@@ -137,7 +137,7 @@
    "nivel": "Júnior",
    "id": "vagascom-2838455",
    "primeira_vez": "2026-10-15T23:29:25+00:00",
-   "ultima_vez": "2026-10-17T01:30:15+00:00",
+   "ultima_vez": "2026-10-17T02:27:48+00:00",
    "ativa": true
   },
   {
@@ -185,7 +185,7 @@
    "nivel": "Júnior",
    "id": "vagascom-2835921",
    "primeira_vez": "2026-10-15T23:29:25+00:00",
-   "ultima_vez": "2026-10-17T01:30:15+00:00",
+   "ultima_vez": "2026-10-17T02:27:48+00:00",
    "ativa": true
   },
   {
@@ -201,8 +201,8 @@
    "nivel": "Não informado",
    "id": "vagascom-2835800",
    "primeira_vez": "2026-10-16T12:37:14+00:00",
-   "ultima_vez": "2026-10-16T12:37:14+00:00",
-   "ativa": false
+   "ultima_vez": "2026-10-17T02:27:48+00:00",
+   "ativa": true
   },
   {
    "titulo": "Analista de Suporte I",
@@ -217,7 +217,7 @@
    "nivel": "Júnior",
    "id": "vagascom-2835711",
    "primeira_vez": "2026-10-15T23:29:25+00:00",
-   "ultima_vez": "2026-10-17T01:30:15+00:00",
+   "ultima_vez": "2026-10-17T02:27:48+00:00",
    "ativa": true
   }
  ]
