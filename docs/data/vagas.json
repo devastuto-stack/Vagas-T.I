@@ -1,28 +1,28 @@
 {
- "atualizado_em": "2026-10-18T08:26:34+00:00",
- "proxima_coleta": "2026-10-18T09:26:34+00:00",
- "duracao_segundos": 101.9,
+ "atualizado_em": "2026-10-18T09:25:42+00:00",
+ "proxima_coleta": "2026-10-18T10:25:42+00:00",
+ "duracao_segundos": 102.7,
  "requisicoes": 169,
  "fontes": [
   {
    "fonte": "Gupy",
    "ok": false,
    "erro": "AL/desenvolvedor: 404 Client Error: Not Found for url: https://portal.api.gupy.io/api/v1/jobs?jobName=desenvolvedor&state=Alagoas&limit=100&offset=0",
-   "segundos": 2.4
+   "segundos": 2.5
   },
   {
    "fonte": "Vagas.com",
    "ok": true,
-   "coletadas": 103,
-   "ti_nordeste": 3,
-   "segundos": 50.5
+   "coletadas": 121,
+   "ti_nordeste": 5,
+   "segundos": 50.1
   },
   {
    "fonte": "Sólides",
    "ok": true,
    "coletadas": 0,
    "ti_nordeste": 0,
-   "segundos": 44.2
+   "segundos": 45.3
   },
   {
    "fonte": "Portais institucionais",
@@ -74,7 +74,7 @@
    "segundos": 4.8
   }
  ],
- "total": 9,
+ "total": 11,
  "vagas": [
   {
    "titulo": "Especialista SAP Mm (Suprimentos e Logística)",
@@ -125,6 +125,38 @@
    "ativa": false
   },
   {
+   "titulo": "Técnico de Informatica N1",
+   "empresa": "Penso Tecnologia",
+   "url": "https://www.vagas.com.br/vagas/v2839187/tecnico-de-informatica-n1",
+   "fonte": "Vagas.com",
+   "cidade": "Horizonte",
+   "uf": "CE",
+   "modalidade": "Não informado",
+   "publicada_em": "2026-10-13",
+   "categoria": "Suporte & Service Desk",
+   "nivel": "Não informado",
+   "id": "vagascom-2839187",
+   "primeira_vez": "2026-10-18T09:25:42+00:00",
+   "ultima_vez": "2026-10-18T09:25:42+00:00",
+   "ativa": true
+  },
+  {
+   "titulo": "Técnico de Suporte",
+   "empresa": "PRAZER, SOMOS A CIVIL MASTER!",
+   "url": "https://www.vagas.com.br/vagas/v2838526/tecnico-de-suporte",
+   "fonte": "Vagas.com",
+   "cidade": "Horizonte",
+   "uf": "CE",
+   "modalidade": "Não informado",
+   "publicada_em": "2026-10-07",
+   "categoria": "Suporte & Service Desk",
+   "nivel": "Não informado",
+   "id": "vagascom-2838526",
+   "primeira_vez": "2026-10-18T09:25:42+00:00",
+   "ultima_vez": "2026-10-18T09:25:42+00:00",
+   "ativa": true
+  },
+  {
    "titulo": "Técnico em Informática I",
    "empresa": "UNIJORGE",
    "url": "https://www.vagas.com.br/vagas/v2838455/tecnico-em-informatica-i",
@@ -137,7 +169,7 @@
    "nivel": "Júnior",
    "id": "vagascom-2838455",
    "primeira_vez": "2026-10-15T23:29:25+00:00",
-   "ultima_vez": "2026-10-18T08:26:34+00:00",
+   "ultima_vez": "2026-10-18T09:25:42+00:00",
    "ativa": true
   },
   {
@@ -185,7 +217,7 @@
    "nivel": "Júnior",
    "id": "vagascom-2835921",
    "primeira_vez": "2026-10-15T23:29:25+00:00",
-   "ultima_vez": "2026-10-18T08:26:34+00:00",
+   "ultima_vez": "2026-10-18T09:25:42+00:00",
    "ativa": true
   },
   {
@@ -217,7 +249,7 @@
    "nivel": "Júnior",
    "id": "vagascom-2835711",
    "primeira_vez": "2026-10-15T23:29:25+00:00",
-   "ultima_vez": "2026-10-18T08:26:34+00:00",
+   "ultima_vez": "2026-10-18T09:25:42+00:00",
    "ativa": true
   }
  ]
