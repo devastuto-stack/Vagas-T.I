@@ -1,28 +1,28 @@
 {
- "atualizado_em": "2026-10-18T03:27:06+00:00",
- "proxima_coleta": "2026-10-18T04:27:06+00:00",
- "duracao_segundos": 101.2,
- "requisicoes": 169,
+ "atualizado_em": "2026-10-18T04:27:58+00:00",
+ "proxima_coleta": "2026-10-18T05:27:58+00:00",
+ "duracao_segundos": 100.9,
+ "requisicoes": 168,
  "fontes": [
   {
    "fonte": "Gupy",
    "ok": false,
    "erro": "AL/desenvolvedor: 404 Client Error: Not Found for url: https://portal.api.gupy.io/api/v1/jobs?jobName=desenvolvedor&state=Alagoas&limit=100&offset=0",
-   "segundos": 2.4
+   "segundos": 2.5
   },
   {
    "fonte": "Vagas.com",
    "ok": true,
-   "coletadas": 110,
+   "coletadas": 96,
    "ti_nordeste": 3,
-   "segundos": 49.9
+   "segundos": 49.4
   },
   {
    "fonte": "Sólides",
    "ok": true,
    "coletadas": 0,
    "ti_nordeste": 0,
-   "segundos": 44.2
+   "segundos": 44.3
   },
   {
    "fonte": "Portais institucionais",
@@ -137,7 +137,7 @@
    "nivel": "Júnior",
    "id": "vagascom-2838455",
    "primeira_vez": "2026-10-15T23:29:25+00:00",
-   "ultima_vez": "2026-10-18T03:27:06+00:00",
+   "ultima_vez": "2026-10-18T04:27:58+00:00",
    "ativa": true
   },
   {
@@ -185,7 +185,7 @@
    "nivel": "Júnior",
    "id": "vagascom-2835921",
    "primeira_vez": "2026-10-15T23:29:25+00:00",
-   "ultima_vez": "2026-10-18T03:27:06+00:00",
+   "ultima_vez": "2026-10-18T04:27:58+00:00",
    "ativa": true
   },
   {
@@ -217,7 +217,7 @@
    "nivel": "Júnior",
    "id": "vagascom-2835711",
    "primeira_vez": "2026-10-15T23:29:25+00:00",
-   "ultima_vez": "2026-10-18T03:27:06+00:00",
+   "ultima_vez": "2026-10-18T04:27:58+00:00",
    "ativa": true
   }
  ]
