@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-10-18T09:25:42+00:00",
- "proxima_coleta": "2026-10-18T10:25:42+00:00",
- "duracao_segundos": 102.7,
- "requisicoes": 169,
+ "atualizado_em": "2026-10-18T10:25:26+00:00",
+ "proxima_coleta": "2026-10-18T11:25:26+00:00",
+ "duracao_segundos": 103.6,
+ "requisicoes": 168,
  "fontes": [
   {
    "fonte": "Gupy",
@@ -13,16 +13,16 @@
   {
    "fonte": "Vagas.com",
    "ok": true,
-   "coletadas": 121,
-   "ti_nordeste": 5,
-   "segundos": 50.1
+   "coletadas": 83,
+   "ti_nordeste": 3,
+   "segundos": 49.6
   },
   {
    "fonte": "Sólides",
    "ok": true,
    "coletadas": 0,
    "ti_nordeste": 0,
-   "segundos": 45.3
+   "segundos": 46.8
   },
   {
    "fonte": "Portais institucionais",
@@ -71,7 +71,7 @@
      "erro": "404 Client Error: Not Found for url: https://neoenergia.gupy.io/"
     }
    ],
-   "segundos": 4.8
+   "segundos": 4.7
   }
  ],
  "total": 11,
@@ -138,7 +138,7 @@
    "id": "vagascom-2839187",
    "primeira_vez": "2026-10-18T09:25:42+00:00",
    "ultima_vez": "2026-10-18T09:25:42+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "titulo": "Técnico de Suporte",
@@ -154,7 +154,7 @@
    "id": "vagascom-2838526",
    "primeira_vez": "2026-10-18T09:25:42+00:00",
    "ultima_vez": "2026-10-18T09:25:42+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "titulo": "Técnico em Informática I",
@@ -169,7 +169,7 @@
    "nivel": "Júnior",
    "id": "vagascom-2838455",
    "primeira_vez": "2026-10-15T23:29:25+00:00",
-   "ultima_vez": "2026-10-18T09:25:42+00:00",
+   "ultima_vez": "2026-10-18T10:25:26+00:00",
    "ativa": true
   },
   {
@@ -217,7 +217,7 @@
    "nivel": "Júnior",
    "id": "vagascom-2835921",
    "primeira_vez": "2026-10-15T23:29:25+00:00",
-   "ultima_vez": "2026-10-18T09:25:42+00:00",
+   "ultima_vez": "2026-10-18T10:25:26+00:00",
    "ativa": true
   },
   {
@@ -249,7 +249,7 @@
    "nivel": "Júnior",
    "id": "vagascom-2835711",
    "primeira_vez": "2026-10-15T23:29:25+00:00",
-   "ultima_vez": "2026-10-18T09:25:42+00:00",
+   "ultima_vez": "2026-10-18T10:25:26+00:00",
    "ativa": true
   }
  ]
