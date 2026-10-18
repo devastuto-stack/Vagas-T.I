@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-10-18T19:22:39+00:00",
- "proxima_coleta": "2026-10-18T20:22:39+00:00",
- "duracao_segundos": 100.5,
- "requisicoes": 168,
+ "atualizado_em": "2026-10-18T20:24:06+00:00",
+ "proxima_coleta": "2026-10-18T21:24:06+00:00",
+ "duracao_segundos": 112.8,
+ "requisicoes": 170,
  "fontes": [
   {
    "fonte": "Gupy",
@@ -13,16 +13,16 @@
   {
    "fonte": "Vagas.com",
    "ok": true,
-   "coletadas": 84,
-   "ti_nordeste": 3,
-   "segundos": 49.5
+   "coletadas": 183,
+   "ti_nordeste": 5,
+   "segundos": 50.6
   },
   {
    "fonte": "Sólides",
    "ok": true,
    "coletadas": 0,
    "ti_nordeste": 0,
-   "segundos": 43.9
+   "segundos": 55.3
   },
   {
    "fonte": "Portais institucionais",
@@ -71,10 +71,10 @@
      "erro": "404 Client Error: Not Found for url: https://neoenergia.gupy.io/"
     }
    ],
-   "segundos": 4.7
+   "segundos": 4.4
   }
  ],
- "total": 11,
+ "total": 12,
  "vagas": [
   {
    "titulo": "Especialista SAP Mm (Suprimentos e Logística)",
@@ -137,8 +137,24 @@
    "nivel": "Não informado",
    "id": "vagascom-2839187",
    "primeira_vez": "2026-10-18T09:25:42+00:00",
-   "ultima_vez": "2026-10-18T09:25:42+00:00",
-   "ativa": false
+   "ultima_vez": "2026-10-18T20:24:06+00:00",
+   "ativa": true
+  },
+  {
+   "titulo": "Coordenador(a) de Aplicações SAP e L4 (Supply Chain, Qualidade e Manutenção)",
+   "empresa": "Vallourec Soluções Tubulares",
+   "url": "https://www.vagas.com.br/vagas/v2838452/coordenador-a-de-aplicacoes-sap-e-l4-supply-chain-qualidade-e-manutencao",
+   "fonte": "Vagas.com",
+   "cidade": "Horizonte",
+   "uf": "CE",
+   "modalidade": "Não informado",
+   "publicada_em": "2026-10-07",
+   "categoria": "ERP & Sistemas Corporativos",
+   "nivel": "Liderança",
+   "id": "vagascom-2838452",
+   "primeira_vez": "2026-10-18T20:24:06+00:00",
+   "ultima_vez": "2026-10-18T20:24:06+00:00",
+   "ativa": true
   },
   {
    "titulo": "Técnico de Suporte",
@@ -169,7 +185,7 @@
    "nivel": "Júnior",
    "id": "vagascom-2838455",
    "primeira_vez": "2026-10-15T23:29:25+00:00",
-   "ultima_vez": "2026-10-18T19:22:39+00:00",
+   "ultima_vez": "2026-10-18T20:24:06+00:00",
    "ativa": true
   },
   {
@@ -217,7 +233,7 @@
    "nivel": "Júnior",
    "id": "vagascom-2835921",
    "primeira_vez": "2026-10-15T23:29:25+00:00",
-   "ultima_vez": "2026-10-18T19:22:39+00:00",
+   "ultima_vez": "2026-10-18T20:24:06+00:00",
    "ativa": true
   },
   {
@@ -249,7 +265,7 @@
    "nivel": "Júnior",
    "id": "vagascom-2835711",
    "primeira_vez": "2026-10-15T23:29:25+00:00",
-   "ultima_vez": "2026-10-18T19:22:39+00:00",
+   "ultima_vez": "2026-10-18T20:24:06+00:00",
    "ativa": true
   }
  ]
