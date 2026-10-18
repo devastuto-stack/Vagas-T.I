@@ -1,28 +1,28 @@
 {
- "atualizado_em": "2026-10-18T13:28:53+00:00",
- "proxima_coleta": "2026-10-18T14:28:53+00:00",
- "duracao_segundos": 104.8,
- "requisicoes": 169,
+ "atualizado_em": "2026-10-18T14:25:29+00:00",
+ "proxima_coleta": "2026-10-18T15:25:29+00:00",
+ "duracao_segundos": 104.9,
+ "requisicoes": 168,
  "fontes": [
   {
    "fonte": "Gupy",
    "ok": false,
    "erro": "AL/desenvolvedor: 404 Client Error: Not Found for url: https://portal.api.gupy.io/api/v1/jobs?jobName=desenvolvedor&state=Alagoas&limit=100&offset=0",
-   "segundos": 2.5
+   "segundos": 2.4
   },
   {
    "fonte": "Vagas.com",
    "ok": true,
-   "coletadas": 133,
+   "coletadas": 82,
    "ti_nordeste": 3,
-   "segundos": 50.0
+   "segundos": 49.4
   },
   {
    "fonte": "Sólides",
    "ok": true,
    "coletadas": 0,
    "ti_nordeste": 0,
-   "segundos": 47.6
+   "segundos": 44.2
   },
   {
    "fonte": "Portais institucionais",
@@ -71,7 +71,7 @@
      "erro": "404 Client Error: Not Found for url: https://neoenergia.gupy.io/"
     }
    ],
-   "segundos": 4.7
+   "segundos": 8.9
   }
  ],
  "total": 11,
@@ -169,7 +169,7 @@
    "nivel": "Júnior",
    "id": "vagascom-2838455",
    "primeira_vez": "2026-10-15T23:29:25+00:00",
-   "ultima_vez": "2026-10-18T13:28:53+00:00",
+   "ultima_vez": "2026-10-18T14:25:29+00:00",
    "ativa": true
   },
   {
@@ -217,7 +217,7 @@
    "nivel": "Júnior",
    "id": "vagascom-2835921",
    "primeira_vez": "2026-10-15T23:29:25+00:00",
-   "ultima_vez": "2026-10-18T13:28:53+00:00",
+   "ultima_vez": "2026-10-18T14:25:29+00:00",
    "ativa": true
   },
   {
@@ -249,7 +249,7 @@
    "nivel": "Júnior",
    "id": "vagascom-2835711",
    "primeira_vez": "2026-10-15T23:29:25+00:00",
-   "ultima_vez": "2026-10-18T13:28:53+00:00",
+   "ultima_vez": "2026-10-18T14:25:29+00:00",
    "ativa": true
   }
  ]
