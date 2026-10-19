@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-10-19T19:33:05+00:00",
- "proxima_coleta": "2026-10-19T20:33:05+00:00",
- "duracao_segundos": 101.0,
- "requisicoes": 169,
+ "atualizado_em": "2026-10-19T20:31:25+00:00",
+ "proxima_coleta": "2026-10-19T21:31:25+00:00",
+ "duracao_segundos": 104.2,
+ "requisicoes": 168,
  "fontes": [
   {
    "fonte": "Gupy",
@@ -13,16 +13,16 @@
   {
    "fonte": "Vagas.com",
    "ok": true,
-   "coletadas": 121,
-   "ti_nordeste": 7,
-   "segundos": 50.1
+   "coletadas": 80,
+   "ti_nordeste": 2,
+   "segundos": 49.4
   },
   {
    "fonte": "Sólides",
    "ok": true,
    "coletadas": 0,
    "ti_nordeste": 0,
-   "segundos": 43.8
+   "segundos": 47.8
   },
   {
    "fonte": "Portais institucionais",
@@ -71,7 +71,7 @@
      "erro": "404 Client Error: Not Found for url: https://neoenergia.gupy.io/"
     }
    ],
-   "segundos": 4.6
+   "segundos": 4.5
   }
  ],
  "total": 13,
@@ -90,7 +90,7 @@
    "id": "vagascom-2839847",
    "primeira_vez": "2026-10-19T19:33:05+00:00",
    "ultima_vez": "2026-10-19T19:33:05+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "titulo": "Especialista SAP Mm (Suprimentos e Logística)",
@@ -106,7 +106,7 @@
    "id": "vagascom-2839651",
    "primeira_vez": "2026-10-16T21:26:47+00:00",
    "ultima_vez": "2026-10-19T19:33:05+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "titulo": "Especialista de TI – Integrações de Sistemas",
@@ -122,7 +122,7 @@
    "id": "vagascom-2839649",
    "primeira_vez": "2026-10-16T21:26:47+00:00",
    "ultima_vez": "2026-10-19T19:33:05+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "titulo": "Especialista SAP Sd (Vendas e Distribuição)",
@@ -138,7 +138,7 @@
    "id": "vagascom-2839652",
    "primeira_vez": "2026-10-16T21:26:47+00:00",
    "ultima_vez": "2026-10-19T19:33:05+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "titulo": "Técnico de Informatica N1",
@@ -201,7 +201,7 @@
    "nivel": "Júnior",
    "id": "vagascom-2838455",
    "primeira_vez": "2026-10-15T23:29:25+00:00",
-   "ultima_vez": "2026-10-19T19:33:05+00:00",
+   "ultima_vez": "2026-10-19T20:31:25+00:00",
    "ativa": true
   },
   {
@@ -234,7 +234,7 @@
    "id": "vagascom-2836722",
    "primeira_vez": "2026-10-16T16:29:59+00:00",
    "ultima_vez": "2026-10-19T19:33:05+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "titulo": "Técnico de Suporte Jr. L - Peak Season",
@@ -249,7 +249,7 @@
    "nivel": "Júnior",
    "id": "vagascom-2835921",
    "primeira_vez": "2026-10-15T23:29:25+00:00",
-   "ultima_vez": "2026-10-19T19:33:05+00:00",
+   "ultima_vez": "2026-10-19T20:31:25+00:00",
    "ativa": true
   },
   {
