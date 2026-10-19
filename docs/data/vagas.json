@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-10-19T17:29:41+00:00",
- "proxima_coleta": "2026-10-19T18:29:41+00:00",
- "duracao_segundos": 102.9,
- "requisicoes": 170,
+ "atualizado_em": "2026-10-19T18:33:39+00:00",
+ "proxima_coleta": "2026-10-19T19:33:39+00:00",
+ "duracao_segundos": 100.7,
+ "requisicoes": 168,
  "fontes": [
   {
    "fonte": "Gupy",
@@ -13,16 +13,16 @@
   {
    "fonte": "Vagas.com",
    "ok": true,
-   "coletadas": 118,
-   "ti_nordeste": 3,
-   "segundos": 51.1
+   "coletadas": 79,
+   "ti_nordeste": 2,
+   "segundos": 49.7
   },
   {
    "fonte": "Sólides",
    "ok": true,
    "coletadas": 0,
    "ti_nordeste": 0,
-   "segundos": 44.8
+   "segundos": 44.1
   },
   {
    "fonte": "Portais institucionais",
@@ -90,7 +90,7 @@
    "id": "vagascom-2839649",
    "primeira_vez": "2026-10-16T21:26:47+00:00",
    "ultima_vez": "2026-10-19T17:29:41+00:00",
-   "ativa": true
+   "ativa": false
   },
   {
    "titulo": "Especialista SAP Mm (Suprimentos e Logística)",
@@ -185,7 +185,7 @@
    "nivel": "Júnior",
    "id": "vagascom-2838455",
    "primeira_vez": "2026-10-15T23:29:25+00:00",
-   "ultima_vez": "2026-10-19T17:29:41+00:00",
+   "ultima_vez": "2026-10-19T18:33:39+00:00",
    "ativa": true
   },
   {
@@ -233,7 +233,7 @@
    "nivel": "Júnior",
    "id": "vagascom-2835921",
    "primeira_vez": "2026-10-15T23:29:25+00:00",
-   "ultima_vez": "2026-10-19T17:29:41+00:00",
+   "ultima_vez": "2026-10-19T18:33:39+00:00",
    "ativa": true
   },
   {
