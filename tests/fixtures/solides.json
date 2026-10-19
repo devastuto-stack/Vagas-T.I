@@ -1,4 +1,0 @@
-{"success": true, "data": {"totalRecords": 2, "data": [
- {"id": 9001, "title": "Programador Delphi", "companyName": "Software Kappa", "city": {"name": "Juazeiro do Norte"}, "state": {"name": "Ceará", "code": "CE"}, "createdAt": "2026-10-11T09:00:00Z", "jobType": "CLT", "homeOffice": false, "slug": "programador-delphi-9001"},
- {"id": 9002, "title": "Analista de Infraestrutura de TI", "companyName": "Lambda Tech", "city": {"name": "Natal"}, "state": {"name": "Rio Grande do Norte", "code": "RN"}, "createdAt": "2026-10-10T09:00:00Z", "homeOffice": true}
-]}}

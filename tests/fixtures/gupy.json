@@ -1,6 +1,0 @@
-{"data": [
- {"id": 101, "name": "Desenvolvedor Back-end Java Pleno", "careerPageName": "Empresa Alfa", "city": "Fortaleza", "state": "Ceará", "country": "Brasil", "jobUrl": "https://alfa.gupy.io/jobs/101", "publishedDate": "2026-10-14T12:00:00.000Z", "isRemoteWork": false, "workplaceType": "hybrid"},
- {"id": 102, "name": "Técnico de Enfermagem", "careerPageName": "Hospital Beta", "city": "Fortaleza", "state": "Ceará", "jobUrl": "https://beta.gupy.io/jobs/102", "publishedDate": "2026-10-14T12:00:00.000Z", "workplaceType": "on-site"},
- {"id": 103, "name": "Analista de Dados Sênior", "careerPageName": "Empresa Gama", "city": "São Paulo", "state": "São Paulo", "jobUrl": "https://gama.gupy.io/jobs/103", "publishedDate": "2026-10-13T12:00:00.000Z", "workplaceType": "remote"},
- {"id": 104, "name": "Estágio em Suporte Técnico de TI", "careerPageName": "Empresa Delta", "city": "Recife", "state": "Pernambuco", "jobUrl": "https://delta.gupy.io/jobs/104", "publishedDate": "2026-10-12T12:00:00.000Z", "workplaceType": "on-site"}
-], "pagination": {"offset": 0, "limit": 100, "total": 4}}
