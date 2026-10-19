@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-10-19T18:33:39+00:00",
- "proxima_coleta": "2026-10-19T19:33:39+00:00",
- "duracao_segundos": 100.7,
- "requisicoes": 168,
+ "atualizado_em": "2026-10-19T19:33:05+00:00",
+ "proxima_coleta": "2026-10-19T20:33:05+00:00",
+ "duracao_segundos": 101.0,
+ "requisicoes": 169,
  "fontes": [
   {
    "fonte": "Gupy",
@@ -13,16 +13,16 @@
   {
    "fonte": "Vagas.com",
    "ok": true,
-   "coletadas": 79,
-   "ti_nordeste": 2,
-   "segundos": 49.7
+   "coletadas": 121,
+   "ti_nordeste": 7,
+   "segundos": 50.1
   },
   {
    "fonte": "Sólides",
    "ok": true,
    "coletadas": 0,
    "ti_nordeste": 0,
-   "segundos": 44.1
+   "segundos": 43.8
   },
   {
    "fonte": "Portais institucionais",
@@ -74,23 +74,23 @@
    "segundos": 4.6
   }
  ],
- "total": 12,
+ "total": 13,
  "vagas": [
   {
-   "titulo": "Especialista de TI – Integrações de Sistemas",
-   "empresa": "Komatsu",
-   "url": "https://www.vagas.com.br/vagas/v2839649/especialista-de-ti-integracoes-de-sistemas",
+   "titulo": "Estágio Técnico - TI Plataforma de Áudio",
+   "empresa": "SGR",
+   "url": "https://www.vagas.com.br/vagas/v2839847/estagio-tecnico-ti-plataforma-de-audio",
    "fonte": "Vagas.com",
    "cidade": "Horizonte",
    "uf": "CE",
    "modalidade": "Não informado",
-   "publicada_em": "2026-10-16",
+   "publicada_em": "2026-10-19",
    "categoria": "Outros T.I.",
-   "nivel": "Especialista",
-   "id": "vagascom-2839649",
-   "primeira_vez": "2026-10-16T21:26:47+00:00",
-   "ultima_vez": "2026-10-19T17:29:41+00:00",
-   "ativa": false
+   "nivel": "Estágio/Trainee",
+   "id": "vagascom-2839847",
+   "primeira_vez": "2026-10-19T19:33:05+00:00",
+   "ultima_vez": "2026-10-19T19:33:05+00:00",
+   "ativa": true
   },
   {
    "titulo": "Especialista SAP Mm (Suprimentos e Logística)",
@@ -105,8 +105,24 @@
    "nivel": "Especialista",
    "id": "vagascom-2839651",
    "primeira_vez": "2026-10-16T21:26:47+00:00",
-   "ultima_vez": "2026-10-19T11:32:02+00:00",
-   "ativa": false
+   "ultima_vez": "2026-10-19T19:33:05+00:00",
+   "ativa": true
+  },
+  {
+   "titulo": "Especialista de TI – Integrações de Sistemas",
+   "empresa": "Komatsu",
+   "url": "https://www.vagas.com.br/vagas/v2839649/especialista-de-ti-integracoes-de-sistemas",
+   "fonte": "Vagas.com",
+   "cidade": "Horizonte",
+   "uf": "CE",
+   "modalidade": "Não informado",
+   "publicada_em": "2026-10-16",
+   "categoria": "Outros T.I.",
+   "nivel": "Especialista",
+   "id": "vagascom-2839649",
+   "primeira_vez": "2026-10-16T21:26:47+00:00",
+   "ultima_vez": "2026-10-19T19:33:05+00:00",
+   "ativa": true
   },
   {
    "titulo": "Especialista SAP Sd (Vendas e Distribuição)",
@@ -121,8 +137,8 @@
    "nivel": "Especialista",
    "id": "vagascom-2839652",
    "primeira_vez": "2026-10-16T21:26:47+00:00",
-   "ultima_vez": "2026-10-19T11:32:02+00:00",
-   "ativa": false
+   "ultima_vez": "2026-10-19T19:33:05+00:00",
+   "ativa": true
   },
   {
    "titulo": "Técnico de Informatica N1",
@@ -185,7 +201,7 @@
    "nivel": "Júnior",
    "id": "vagascom-2838455",
    "primeira_vez": "2026-10-15T23:29:25+00:00",
-   "ultima_vez": "2026-10-19T18:33:39+00:00",
+   "ultima_vez": "2026-10-19T19:33:05+00:00",
    "ativa": true
   },
   {
@@ -217,8 +233,8 @@
    "nivel": "Não informado",
    "id": "vagascom-2836722",
    "primeira_vez": "2026-10-16T16:29:59+00:00",
-   "ultima_vez": "2026-10-19T06:42:49+00:00",
-   "ativa": false
+   "ultima_vez": "2026-10-19T19:33:05+00:00",
+   "ativa": true
   },
   {
    "titulo": "Técnico de Suporte Jr. L - Peak Season",
@@ -233,7 +249,7 @@
    "nivel": "Júnior",
    "id": "vagascom-2835921",
    "primeira_vez": "2026-10-15T23:29:25+00:00",
-   "ultima_vez": "2026-10-19T18:33:39+00:00",
+   "ultima_vez": "2026-10-19T19:33:05+00:00",
    "ativa": true
   },
   {
